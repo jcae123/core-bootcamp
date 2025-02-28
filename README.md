@@ -53,3 +53,5 @@ Here are some VS Code Extensions that could help you have a better development e
 
 ## Contribute
 For change request, please clone and submit pull-request. Or e-mail at mark@theblokc.com
+
+Contract Address (ERC721) = 0x8c5D30c73474D32aB4af421E72ED9F7F2947e86a
