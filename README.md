@@ -54,4 +54,6 @@ Here are some VS Code Extensions that could help you have a better development e
 ## Contribute
 For change request, please clone and submit pull-request. Or e-mail at mark@theblokc.com
 
-Contract Address (ERC721) = 0x8c5D30c73474D32aB4af421E72ED9F7F2947e86a
+Contract Address (ERC721) = 0x01350A0A78CB9d5c2b24805cB4Ef9F0D33Bd23d8
+ERC20 - 0xfE11d94e2dA98F9C2DAD0fDe52060428D6B1670C
+sumbit ts = 0x325438973ca0a2e557b20c5c68fe1b281d5fdff1af8bd6d7f1f67284c7558953

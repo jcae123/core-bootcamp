@@ -1,7 +1,7 @@
 // 0x3b26E8DA9aDedAAe86a260b6354aC1855AA65C14
 
 import path from 'path'
-require('dotenv').config({ path: path.resolve(__dirname, '.env') });
+require('dotenv').config({ path: path.resolve(__dirname, '../.env') });
 
 import {
   Hex,
@@ -33,10 +33,10 @@ const account = privateKeyToAccount(`0x${privateKey}` as Hex);
   });
 
   const tx = await contract.write.recordSubmission([
-    'markneri',
-    'kimerran',
-    '0x3b26E8DA9aDedAAe86a260b6354aC1855AA65C14',
-    '0x3b26E8DA9aDedAAe86a260b6354aC1855AA65C14'
+    'John Carlo',
+    'Espinili',
+    '0xfE11d94e2dA98F9C2DAD0fDe52060428D6B1670C',
+    '0x01350A0A78CB9d5c2b24805cB4Ef9F0D33Bd23d8'
     ]);    
   console.log('tx', tx);
 })();

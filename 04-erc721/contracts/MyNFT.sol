@@ -15,7 +15,7 @@ contract BanzonParkourCoin is ERC721URIStorage {
          _safeMint(msg.sender, tokenId);
          _setTokenURI(
              tokenId,
-             "https://path/to/metadata-uri"
+             "https://raw.githubusercontent.com/jcae123/core-bootcamp/refs/heads/main/metadata.json"
          );
         tokenId++;
     }
