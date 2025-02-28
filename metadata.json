@@ -1,0 +1,12 @@
+{
+        "name": "BanzonParkourCoin",
+        "description": "banzon nag paparkour pag lasing",
+        "symbol": "BPC",
+        "image": "https://imgur.com/a/VC2Wenq.jpeg",
+        "attributes": [
+            {
+                "trait_type": "channel",
+                "value": "TV5"
+            }
+        ]
+    }
